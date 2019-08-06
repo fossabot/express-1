@@ -1,4 +1,5 @@
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzt2%2Fexpress.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzt2%2Fexpress?ref=badge_shield)
 
   Fast, unopinionated, minimalist web framework for [node](http://nodejs.org).
 
@@ -153,3 +154,6 @@ The current lead maintainer is [Douglas Christopher Wilson](https://github.com/d
 [appveyor-url]: https://ci.appveyor.com/project/dougwilson/express
 [coveralls-image]: https://img.shields.io/coveralls/expressjs/express/master.svg
 [coveralls-url]: https://coveralls.io/r/expressjs/express?branch=master
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzt2%2Fexpress.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzt2%2Fexpress?ref=badge_large)
